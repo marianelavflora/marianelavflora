@@ -10,7 +10,6 @@
 ![Virtualization](https://img.shields.io/badge/Virtualization-000000?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Network Management](https://img.shields.io/badge/Network_Management-000000?style=for-the-badge&logo=cisco&logoColor=white)
 ![APIs Integration](https://img.shields.io/badge/APIs_Integration-004C97?style=for-the-badge&logo=swagger&logoColor=white)
-![GitHub Pro](https://img.shields.io/badge/GitHub%20Pro-000000?style=for-the-badge&logo=github&logoColor=white)
 
 I have a passion for doing things that seem difficult, also demostrating that impossibble _is_ possible. Things are never easy, but with enough time invested every project can come to life.
 
