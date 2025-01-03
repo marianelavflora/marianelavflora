@@ -22,7 +22,7 @@ I have a passion for doing things that seem difficult, also demostrating that im
 - 🤖 **Volunteer:** Robotics and Programming Workshop Volunteer
   - teaching programming and robotics basics to over 50 students with an amazing team!
 - 🚀 **Currently Working on:** Data scraping and API integration
-- 🌟 **Studies:** Computer Engineering (National University of Córdoba, 2022 - Present)
+- 🌟 **Degree:** Computer Engineering (National University of Córdoba, 2022 - Present)
 - 📚 **Specialization:** BackEnd Web Development (Oracle, May 2023 - October 2023)
 
 ## Contact Me
