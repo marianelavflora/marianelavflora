@@ -10,6 +10,7 @@
 ![Virtualization](https://img.shields.io/badge/Virtualization-000000?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Network Management](https://img.shields.io/badge/Network_Management-000000?style=for-the-badge&logo=cisco&logoColor=white)
 ![APIs Integration](https://img.shields.io/badge/APIs_Integration-004C97?style=for-the-badge&logo=swagger&logoColor=white)
+![GitHub Pro](https://img.shields.io/badge/GitHub%20Pro-000000?style=for-the-badge&logo=github&logoColor=white)
 
 <p align="center">
   <img src="https://www.discoverengineering.org/wp-content/uploads/2023/12/mj_11334_4.jpg" alt="Image" width="400">
@@ -24,6 +25,8 @@ I have a passion for doing things that seem difficult, also demostrating that im
 - 🚀 **Currently Working on:** Data scraping and API integration
 - 🌟 **Degree:** Computer Engineering (National University of Córdoba, 2022 - Present)
 - 📚 **Specialization:** BackEnd Web Development (Oracle, May 2023 - October 2023)
+
+
 
 ## Contact Me
 - 🌐 LinkedIn: [Marianela Flora](http://linkedin.com/in/marianela-victoria-flora-b52131205/)
