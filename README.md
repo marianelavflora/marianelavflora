@@ -12,13 +12,13 @@
 ![APIs Integration](https://img.shields.io/badge/APIs_Integration-004C97?style=for-the-badge&logo=swagger&logoColor=white)
 ![GitHub Pro](https://img.shields.io/badge/GitHub%20Pro-000000?style=for-the-badge&logo=github&logoColor=white)
 
+I have a passion for doing things that seem difficult, also demostrating that impossibble _is_ possible. Things are never easy, but with enough time invested every project can come to life.
+
 <p align="center">
   <img src="https://www.discoverengineering.org/wp-content/uploads/2023/12/mj_11334_4.jpg" alt="Image" width="200">
 </p>
 
 ## About Me
-
-I have a passion for doing things that seem difficult, also demostrating that impossibble _is_ possible. Things are never easy, but with enough time invested every project can come to life.
 
 - 🤖 **Volunteer:** Robotics and Programming Workshop Volunteer
   - teaching programming and robotics basics to over 50 students with an amazing team!
