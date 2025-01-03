@@ -13,7 +13,7 @@
 ![GitHub Pro](https://img.shields.io/badge/GitHub%20Pro-000000?style=for-the-badge&logo=github&logoColor=white)
 
 <p align="center">
-  <img src="https://www.discoverengineering.org/wp-content/uploads/2023/12/mj_11334_4.jpg" alt="Image" width="400">
+  <img src="https://www.discoverengineering.org/wp-content/uploads/2023/12/mj_11334_4.jpg" alt="Image" width="200">
 </p>
 
 ## About Me
