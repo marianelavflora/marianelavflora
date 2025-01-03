@@ -11,7 +11,7 @@
 ![Network Management](https://img.shields.io/badge/Network_Management-000000?style=for-the-badge&logo=cisco&logoColor=white)
 ![APIs Integration](https://img.shields.io/badge/APIs_Integration-004C97?style=for-the-badge&logo=swagger&logoColor=white)
 
-I have a passion for doing things that seem difficult, also demostrating that impossibble _is_ possible. Things are never easy, but with enough time invested every project can come to life.
+I have a passion for doing things that seem difficult, and demostrating that impossibble _is_ possible. Things are never easy, but with enough time invested every project can come to life.
 
 <p align="center">
   <img src="https://www.discoverengineering.org/wp-content/uploads/2023/12/mj_11334_4.jpg" alt="Image" width="200">
