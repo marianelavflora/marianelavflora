@@ -26,7 +26,7 @@ I have a passion for doing things that seem difficult, and demostrating that imp
   - teaching programming and robotics basics to over 50 students with an amazing team!
 - 👱🏻‍♀️ **Personal project that I'm working on:** tinkering with my homelab, while getting better at software and electronics!
   
-- 🌟 **Degree:** Computer Engineering (National University of Córdoba, 2022 - Present)
+- ☀️ **Degree:** Computer Engineering (National University of Córdoba, 2022 - Present)
 - 📚 **Specialization:** BackEnd Web Development (Oracle, May 2023 - October 2023)
 
 
