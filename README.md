@@ -1,5 +1,5 @@
 # Marianela Victoria Flora
-## Computer Engineering | Back-end Development Expertise | Python | Java 
+## Computer Engineering | Back-end Development | Python | Java 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -9,7 +9,6 @@
 ![Robotics](https://img.shields.io/badge/Robotics-0085CA?style=for-the-badge&logo=robotics&logoColor=white)
 ![Virtualization](https://img.shields.io/badge/Virtualization-000000?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Network Management](https://img.shields.io/badge/Network_Management-000000?style=for-the-badge&logo=cisco&logoColor=white)
-![APIs Integration](https://img.shields.io/badge/APIs_Integration-004C97?style=for-the-badge&logo=swagger&logoColor=white)
 
 I have a passion for doing things that seem difficult, and demostrating that impossibble _is_ possible. Things are never easy, but with enough time invested every project can come to life.
 
@@ -19,9 +18,13 @@ I have a passion for doing things that seem difficult, and demostrating that imp
 
 ## About Me
 
-- 🤖 **Volunteer:** Robotics and Programming Workshop 
+- 🦾 **Volunteer:** Innovation and Development Workshop (since February 2025)
+  - developing a robotic prosthetic arm with a (dangerously) efficient team.
+- 🚀 **Volunteer Intern:** Nanosatellite Development (since February 2025)
+  - following along with developing a nanosatellite and learning about the aerospace industry.
+- 🤖 **Volunteer:** Robotics and Programming Workshop (August 2024 - November 2024)
   - teaching programming and robotics basics to over 50 students with an amazing team!
-- 🚀 **Currently Working on:** Data scraping and API integration
+- 👱🏻‍♀️ **Currently Working on:** getting better at electronics and being a better professional!  
 - 🌟 **Degree:** Computer Engineering (National University of Córdoba, 2022 - Present)
 - 📚 **Specialization:** BackEnd Web Development (Oracle, May 2023 - October 2023)
 
