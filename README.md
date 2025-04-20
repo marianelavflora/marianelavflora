@@ -1,6 +1,11 @@
 # Marianela Victoria Flora
 ## Computer Engineering | QA Testing | Back-end Development | Python 
 
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
+
 ## Contact Me
 - 🌐 LinkedIn: [Marianela Flora](http://linkedin.com/in/marianela-victoria-flora-b52131205/)
   
@@ -31,12 +36,6 @@ I have a passion for doing things that seem difficult, and demostrating that imp
   
 - ☀️ **Degree:** Computer Engineering (National University of Córdoba, 2022 - Present)
 - 📚 **Specialization:** BackEnd Web Development (Oracle, May 2023 - October 2023)
-
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
-</div>
-
 
 
 
