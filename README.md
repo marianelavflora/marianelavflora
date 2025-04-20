@@ -26,8 +26,6 @@ I have a passion for doing things that seem difficult, and demostrating that imp
 
 - 🦾 **Volunteer:** Innovation and Development Workshop (since February 2025)
   - developing a robotic prosthetic arm with a (dangerously) efficient team.
-- 🚀 **Volunteer Intern:** Nanosatellite Development (since February 2025)
-  - following along with developing a nanosatellite and learning about the aerospace industry.
 - 🤖 **Volunteer:** Robotics and Programming Workshop (August 2024 - November 2024)
   - teaching programming and robotics basics to over 50 students with an amazing team!
 - 👱🏻‍♀️ **Personal project that I'm working on:** tinkering with my homelab, while getting better at software and electronics!
