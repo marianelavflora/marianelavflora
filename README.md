@@ -1,6 +1,9 @@
 # Marianela Victoria Flora
-## Computer Engineering | Back-end Development | Python | Java 
+## Computer Engineering | QA Testing | Back-end Development | Python 
 
+## Contact Me
+- 🌐 LinkedIn: [Marianela Flora](http://linkedin.com/in/marianela-victoria-flora-b52131205/)
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -29,10 +32,13 @@ I have a passion for doing things that seem difficult, and demostrating that imp
 - ☀️ **Degree:** Computer Engineering (National University of Córdoba, 2022 - Present)
 - 📚 **Specialization:** BackEnd Web Development (Oracle, May 2023 - October 2023)
 
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
 
 
-## Contact Me
-- 🌐 LinkedIn: [Marianela Flora](http://linkedin.com/in/marianela-victoria-flora-b52131205/)
+
 
 Feel free to explore my projects and reach out! 🚀
 
