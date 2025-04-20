@@ -39,8 +39,6 @@ I have a passion for doing things that seem difficult, and demostrating that imp
 
 ## 🐍 My Contributions
 
-marianelavflora
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marianelavflora/marianelavflora/output/github-contribution-grid-snake-dark.svg" />
