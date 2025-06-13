@@ -1,5 +1,5 @@
 # Marianela Victoria Flora
-## Computer Engineering | QA Engineering | Back-end Development | Python 
+## Computer Engineering | QA Engineering | Software Testing | Playtesting | Back-end Development | Python 
 
 <div align="center"> 
   <p>Visitor count</p>
