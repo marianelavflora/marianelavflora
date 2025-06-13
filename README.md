@@ -17,7 +17,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Robotics](https://img.shields.io/badge/Robotics-0085CA?style=for-the-badge&logo=robotics&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Network Management](https://img.shields.io/badge/Network_Management-000000?style=for-the-badge&logo=cisco&logoColor=white)
+
 
 I have a passion for doing things that seem difficult, and demostrating that impossibble _is_ possible. Things are never easy, but with enough time invested every project can come to life.
 
