@@ -1,5 +1,5 @@
 # Marianela Victoria Flora
-## Computer Engineering | QA Testing | Back-end Development | Python 
+## Computer Engineering | QA Engineering | Back-end Development | Python 
 
 <div align="center"> 
   <p>Visitor count</p>
@@ -24,7 +24,11 @@ I have a passion for doing things that seem difficult, and demostrating that imp
 
 ## About Me
 
-- 🦾 **Volunteer:** Innovation and Development Workshop (since February 2025)
+- 🦾 **Junior Software Testing Engineer** EPAM (since June 2025, currently working here)
+  - working as a playtesting engineer for a well-known gaming platform. 
+- 🦾 **Freelance QA Tester** Independent (since January 2025)
+  - working as a QA Tester for various testing platforms such as Utest, GameTester, and PlayTestCloud.
+- 🦾 **Software Dev:** Innovation and Development Workshop ( February 2025 - June 2025)
   - developing a robotic prosthetic arm with a (dangerously) efficient team.
 - 🤖 **Volunteer:** Robotics and Programming Workshop (August 2024 - November 2024)
   - teaching programming and robotics basics to over 50 students with an amazing team!
