@@ -24,20 +24,21 @@ I have a passion for doing things that seem difficult, and demostrating that imp
 
 - 🦾 **Junior Software Testing Engineer** - EPAM (since June 2025, currently working here)
   - working as a playtesting engineer for a well-known gaming platform. 
-- 🦾 **Freelance QA Tester** - Independent (since January 2025)
-  - working as a QA Tester for various testing platforms such as Utest, GameTester, and PlayTestCloud.
-- 🦾 **SVolunteer:** Innovation and Development Workshop ( February 2025 - June 2025)
+- 🦾 **Freelance QA Tester** - Independent (January 2025 - August 2025)
+  - working as a QA Tester for various testing platforms such as Utest, testIO,GameTester, and PlayTestCloud.
+- 🦾 **Volunteer:** Innovation and Development Workshop ( February 2025 - June 2025)
   - developing a robotic prosthetic arm with a (dangerously) efficient team.
 - 🤖 **Volunteer:** Robotics and Programming Workshop (August 2024 - November 2024)
   - teaching programming and robotics basics to over 50 students with an amazing team!
-- 👱🏻‍♀️ **Personal project that I'm working on:** tinkering with my homelab, while getting better at software and electronics! Also doing a CubeSat satellites online course!
+- 👱🏻‍♀️ **working on:** generating engagment on the tech community in Arg and shipping products! 
   
 - ☀️ **Degree:** Computer Engineering (National University of Córdoba, 2022 - Present)
 - 📚 **Specialization:** BackEnd Web Development (Oracle, May 2023 - October 2023)
 
 
-## Contact Me
-- 🌐 LinkedIn: [Marianela Flora](http://linkedin.com/in/marianela-victoria-flora-b52131205/)
+## Let's talk! 
+-  [LinkedIn](http://linkedin.com/in/marianela-victoria-flora-b52131205/)
+-  [Twitter](https://x.com/mavifloraa)
 
 ## 🐍 My Contributions
 
