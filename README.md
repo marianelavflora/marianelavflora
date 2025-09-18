@@ -1,11 +1,6 @@
 # Marianela Victoria Flora
 ## Computer Engineering | QA Engineering | Software Testing | Game Testing | Python 
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
-</div>
-
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02C?style=for-the-badge&logo=selenium&logoColor=white)
